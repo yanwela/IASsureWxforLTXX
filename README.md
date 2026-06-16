@@ -1,4 +1,4 @@
-# IASsure Airspace Data Provisioning Daemon
+# IASsure TR Weather Feeder
 
 This service is designed to gather weather data to be used by IASsure by MorpheusXAUT. It uses the Open-Meteo.com-API to gather the necessary data to provide to the plugin.
 
